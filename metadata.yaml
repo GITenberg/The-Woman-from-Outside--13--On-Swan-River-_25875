@@ -1,0 +1,29 @@
+_repo: The-Woman-from-Outside--13--On-Swan-River-_25875
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25875-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Footner, Hulbert
+    birthdate: 1879
+    deathdate: 1944
+    gutenberg_agent_id: '6601'
+    url: http://www.gutenberg.org/2009/agents/6601
+    wikipedia: http://www.xs4all.nl/~embden11/Engels5/footner.htm
+description: ''
+gutenberg_issued: '2008-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25875'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Royal North West Mounted Police (Canada) -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Canada -- Fiction'
+- !lcc 'PS'
+title: "The Woman from Outside\r\n[On Swan River]"
+url: http://www.gutenberg.org/ebooks/25875
