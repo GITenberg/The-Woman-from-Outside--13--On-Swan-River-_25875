@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6601
     wikipedia: http://www.xs4all.nl/~embden11/Engels5/footner.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25875#The-Woman-from-Outside--13--On-Swan-River-
 gutenberg_issued: '2008-06-22'
 gutenberg_type: Text
 identifiers:
